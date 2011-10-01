@@ -1,6 +1,6 @@
 {application,hbase,
              [{description,"The HBase Thrift libraries"},
-              {vsn,"1"},
+              {vsn,"0.90.4"},
               {registered,[]},
               {applications,[kernel,stdlib]},
               {mod,{hbase_app,[]}},
